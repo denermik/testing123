@@ -1,0 +1,22 @@
+{
+
+    "name": "testingo/delek",
+    "version": "1.0.0",
+    "description":  ",
+    "keywords": [
+ 
+    ],
+
+"authors": [
+	  {
+            "name": "testingo",
+            "email": "asme@gmail.com",
+			"homepage": ""
+        }
+    ],
+    "license": "ISC",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package2": "1.*"
+    }
+}
